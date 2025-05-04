@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+websockets
+torch
+# openai-whisper  # or faster-whisper for performance
+faster-whisper
+transformers    # for LLM (optional)
